@@ -1,4 +1,4 @@
-package com.company;
+package imperativo;
 
 import java.util.Scanner;
 
